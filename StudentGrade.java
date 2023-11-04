@@ -4,10 +4,9 @@ Calculate Average Percentage: Divide the total marks by the total number of subj
 average percentage.
 Grade Calculation: Assign grades based on the average percentage achieved.
 Display Results: Show the total marks, average percentage, and the corresponding grade to the user*/
-import java.util.*;
-import java.util.Scanner;
 
-public class TASK2 
+import java.util.Scanner;
+public class StudentGrade
 {
     public static void main(String args[])
     {
